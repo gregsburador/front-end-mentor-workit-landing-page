@@ -194,7 +194,7 @@ body {
 	gap: 2.5rem;
 }
 
-.hero__content--hero-title p {
+.hero__content--hero-title h1 {
 	text-align: center;
 	font-family: var(--ff-fraunces);
 	font-size: var(--fs-title);
@@ -493,7 +493,7 @@ button:hover {
 		--hero-img-top: 27.5rem;
 	}
 
-	.hero__content--hero-title p {
+	.hero__content--hero-title h1 {
 		--fs-title: 3.75rem;
 	}
 
@@ -572,7 +572,7 @@ button:hover {
 		--dark-height: 33.765rem;
 	}
 	.bg-dark::after {
-		--bg-dark-min-height: 65rem;
+		--bg-dark-min-height: 72rem;
 	}
 	.bg-light::after {
 		top: 0;
@@ -598,14 +598,14 @@ button:hover {
 		position: absolute;
 		z-index: -1;
 		top: 18rem;
-		right: -13.5rem;
+		right: -10.5rem;
 	}
 
 	.hero__content--hero--img {
 		--hero-img-top: 27.5rem;
 	}
 
-	.hero__content--hero-title p {
+	.hero__content--hero-title h1 {
 		--fs-title: 5rem;
 	}
 
@@ -713,7 +713,7 @@ button:hover {
 		--dark-height: 33.765rem;
 	}
 	.bg-dark::after {
-		--bg-dark-min-height: 65rem;
+		--bg-dark-min-height: 71rem;
 	}
 
 	.bg-light {
@@ -752,7 +752,7 @@ button:hover {
 		--hero-img-top: 27.5rem;
 	}
 
-	.hero__content--hero-title p {
+	.hero__content--hero-title h1 {
 		--fs-title: 5rem;
 	}
 
