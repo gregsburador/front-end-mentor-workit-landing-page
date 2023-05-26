@@ -4,13 +4,13 @@
 
 @font-face {
 	font-family: "Fraunces";
-	src: url("/assets/fonts/fraunces/static/Fraunces_144pt-SemiBold.ttf")
+	src: url("./assets/fonts/fraunces/static/Fraunces_144pt-SemiBold.ttf")
 		format("truetype");
 }
 
 @font-face {
 	font-family: "Manrope";
-	src: url("/assets/fonts/manrope/static/Manrope-Regular.ttf")
+	src: url("./assets/fonts/manrope/static/Manrope-Regular.ttf")
 		format("truetype");
 }
 
